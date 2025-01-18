@@ -20,3 +20,6 @@ The oblective of this call centre is to find annual sales report for 2023. So th
 - Imported dataset into the excel and by using power query, cleaned the data like removed null and duplicate values.
 - Added features like Financial year, Day of week, Duration bucket, Rating rounded.
 - And after cleaning and feature engineering, started working on dash board according to questions.
+
+  ![image](https://github.com/user-attachments/assets/38b44bc1-46e6-461d-a056-33faafb1ac2a)
+
