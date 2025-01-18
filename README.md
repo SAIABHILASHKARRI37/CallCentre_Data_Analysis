@@ -23,3 +23,8 @@ The oblective of this call centre is to find annual sales report for 2023. So th
 
   ![image](https://github.com/user-attachments/assets/38b44bc1-46e6-461d-a056-33faafb1ac2a)
 
+# Project Insights
+- According to reports on March month call centre getting high count calls. So to manage these custmors centre can recruite part time employees in that month to manage calls.
+- Most of calls getting 4 rating, so concentrate on those custmers to satisfy them and we can make that to 5.
+- Cities(Cincinnati,Cleveland,Columbus) in this from Cincinnati we are getting less revenue, so concentrate on this city and by taking small changes we can bring more revenue from this city too.
+- On weekdays like saturday and wednesday we are getting more calls. So keep more active on these days to get better results.
